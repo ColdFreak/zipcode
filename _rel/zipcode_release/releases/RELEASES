@@ -1,0 +1,9 @@
+[{release,"zipcode_release","1","6.1",
+          [{kernel,"3.0.1","./lib/kernel-3.0.1"},
+           {stdlib,"2.1","./lib/stdlib-2.1"},
+           {ranch,"1.1.0","./lib/ranch-1.1.0"},
+           {crypto,"3.4","./lib/crypto-3.4"},
+           {cowlib,"1.0.1","./lib/cowlib-1.0.1"},
+           {cowboy,"2.0.0-pre.1","./lib/cowboy-2.0.0-pre.1"},
+           {zipcode,"0.1.0","./lib/zipcode-0.1.0"}],
+          permanent}].

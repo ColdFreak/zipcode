@@ -1,0 +1,14 @@
+{application, zipcode, [
+	{description, ""},
+	{vsn, "0.1.0"},
+	{id, "git"},
+	{modules, []},
+	{registered, [zipcode_sup]},
+	{applications, [
+		kernel,
+		stdlib,
+        cowboy
+	]},
+	{mod, {zipcode_app, []}},
+	{env, []}
+]}.
